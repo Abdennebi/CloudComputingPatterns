@@ -5,6 +5,8 @@ Collection of patterns used in cloud computing and distributed systems.
 
 === Resiliency Patterns
 
+=== Caching Patterns
+
 === Load Balancing Patterns
 
 === Deployment Patterns
