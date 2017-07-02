@@ -3,12 +3,20 @@
 Collection of patterns used in cloud computing and distributed systems.
 
 
+=== Data Patterns
+
 === Resiliency Patterns
 
 === Caching Patterns
 
 === Load Balancing Patterns
 
+=== Build Patterns
+
 === Deployment Patterns
+
+=== Security Patterns
+
+=== Monitoring Patterns
 
 === Testing Patterns
