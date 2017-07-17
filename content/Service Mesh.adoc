@@ -1,1 +1,6 @@
 
+== Service Mesh
+
+A service mesh is a uniform way to connect, secure, manage and monitor microservices.
+
+A service mesh manage the traffic between microservices by adding capabilities like service discovery, load balancing, security, monitoring, tracing and dynamic routing. It is a layer of infrastructure between a service and the network making services or applications completely free form distributed system problems.
