@@ -1,1 +1,4 @@
 
+== References
+
+https://martinfowler.com/bliki/BlueGreenDeployment.html
